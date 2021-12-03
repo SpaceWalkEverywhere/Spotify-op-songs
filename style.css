@@ -1,0 +1,20 @@
+ body{
+     background-color: #222;
+ }
+h2{
+    color: #fff;
+}
+button{
+    background-color: #fff;
+    margin-left: 20px;
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+    color: #000;
+}
+.pl{
+    width: 200px;
+}
+.dp{
+    width: 400px;
+}
